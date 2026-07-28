@@ -1,6 +1,6 @@
-const REPO = "NutterButterInAA/Vuttara";
+﻿const REPO = "NutterButterInAA/Vuttara";
 const RELEASES_URL = `https://github.com/${REPO}/releases`;
-const FALLBACK_VERSION = "3.2.22";
+const FALLBACK_VERSION = "3.2.23";
 
 function versionNumber(tag = "") {
   return String(tag).replace(/^v/i, "").trim();
@@ -134,7 +134,7 @@ async function loadReleases() {
       .slice(0, 12)
       .map((release) => {
         const title = release.name || release.tag_name;
-        const releaseType = release.prerelease ? " · Beta" : "";
+        const releaseType = release.prerelease ? " Â· Beta" : "";
         const notes =
           release.body || "No release notes provided.";
 
