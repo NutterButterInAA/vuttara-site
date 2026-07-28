@@ -1,0 +1,12 @@
+{
+  "name": "vuttara-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler pages dev public",
+    "deploy": "wrangler pages deploy public --project-name vuttara-site --branch main"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
