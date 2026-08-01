@@ -1,0 +1,11 @@
+﻿{
+    "product":  "Vuttara",
+    "version":  "3.2.31",
+    "tag":  "v3.2.31",
+    "channel":  "stable",
+    "file":  "/downloads/Vuttara-Setup.exe",
+    "githubAsset":  "Vuttara-Setup-3.2.31-x64.exe",
+    "sha256":  "20D4A799C6351F47A15216EF6AFB44A9F539B37EC9F1F654FB113A6F52F31265",
+    "releasedAt":  "2026-08-01T21:51:25.7717130Z",
+    "title":  "Vuttara 3.2.31"
+}
