@@ -1,4 +1,4 @@
-﻿# Vuttara 3.2.31
+# Vuttara 3.2.32
 
 Released: 2026-08-01
 

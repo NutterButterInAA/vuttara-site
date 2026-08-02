@@ -1,6 +1,6 @@
-﻿const REPO = "NutterButterInAA/Vuttara";
+const REPO = "NutterButterInAA/Vuttara";
 const RELEASES_URL = `https://github.com/${REPO}/releases`;
-const FALLBACK_VERSION = "3.2.31";
+const FALLBACK_VERSION = "3.2.32";
 
 function versionNumber(tag = "") {
   return String(tag).replace(/^v/i, "").trim();
