@@ -1,0 +1,8 @@
+version: 3.2.33
+files:
+  - url: Vuttara-Setup-3.2.33-x64.exe
+    sha512: brXwajrZTHZA4EivBsiaW3K3y84Tg78/WnM+rqCuHUkWRJq5zAdNRtrV4pa/ZFakfGtsstdw4LampKwDs+l27w==
+    size: 95500505
+path: Vuttara-Setup-3.2.33-x64.exe
+sha512: brXwajrZTHZA4EivBsiaW3K3y84Tg78/WnM+rqCuHUkWRJq5zAdNRtrV4pa/ZFakfGtsstdw4LampKwDs+l27w==
+releaseDate: '2026-08-03T00:43:01.540Z'

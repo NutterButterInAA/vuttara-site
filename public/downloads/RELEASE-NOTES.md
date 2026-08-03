@@ -1,6 +1,6 @@
-# Vuttara 3.2.32
+﻿# Vuttara 3.2.33
 
-Released: 2026-08-01
+Released: 2026-08-02
 
 ## Improvements
 
@@ -13,6 +13,6 @@ Released: 2026-08-01
 
 ## Release validation
 
-- Built from the confirmed published Vuttara 3.2.30 baseline.
+- Built from the confirmed published Vuttara 3.2.32 baseline.
 - Exact installer, blockmap, and latest.yml artifacts were hash-validated.
 - The installer passed clean isolated-user installation, launch, shutdown, uninstall, and cleanup testing.
