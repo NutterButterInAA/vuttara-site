@@ -1,11 +1,11 @@
-﻿{
-    "product":  "Vuttara",
-    "version":  "3.2.33",
-    "tag":  "v3.2.33",
-    "channel":  "stable",
-    "file":  "/downloads/Vuttara-Setup.exe",
-    "githubAsset":  "Vuttara-Setup-3.2.33-x64.exe",
-    "sha256":  "90DA27A4746294F790A784479CD0E20EC70F8CDE3FBFB2CF1A2F04CFB722557D",
-    "releasedAt":  "2026-08-03T00:43:03.0916806Z",
-    "title":  "Vuttara 3.2.33"
+{
+  "product": "Vuttara",
+  "version": "3.2.33",
+  "tag": "v3.2.33",
+  "channel": "stable",
+  "file": "https://github.com/NutterButterInAA/Vuttara/releases/download/v3.2.33/Vuttara-Setup-3.2.33-x64.exe",
+  "githubAsset": "Vuttara-Setup-3.2.33-x64.exe",
+  "sha256": "90DA27A4746294F790A784479CD0E20EC70F8CDE3FBFB2CF1A2F04CFB722557D",
+  "releasedAt": "2026-08-03T00:43:03.0916806Z",
+  "title": "Vuttara 3.2.33"
 }
